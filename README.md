@@ -1,1 +1,1 @@
-# DeclaritivePipelices
+# Declarative Pipelines
